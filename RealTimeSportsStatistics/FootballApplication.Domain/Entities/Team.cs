@@ -13,5 +13,6 @@ namespace FootballApplication.Domain.Entities
         public int Losses { get; set; }
         public int Ties { get; set; }
 		// comment
+		//second comment
     }
 }
